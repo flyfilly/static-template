@@ -1,0 +1,22 @@
+{
+  "name": "static-template",
+  "authors": [
+    "Felipe Sanchez <fnsanchez317@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "app-layout": "PolymerElements/app-layout#^2.1.0",
+    "iron-pages": "PolymerElements/iron-pages#^2.1.1",
+    "iron-selector": "PolymerElements/iron-selector#^2.1.0"
+  }
+}

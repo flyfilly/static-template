@@ -1,0 +1,23 @@
+{
+  "name": "A Sample Static Page",
+  "short_name": "Sample",
+  "lang" : "en-US",
+  "description": "",
+  "icons": [
+    {
+      "src": "./assets/images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#333C42",
+  "background_color": "#333C42"
+}
